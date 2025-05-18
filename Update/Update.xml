@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <item>
-  <version>0.0.0.2</version>
-  <url>https://github.com/Roken-Personal/GFS.Contract.Tools/releases/download/v0.0.0.2/GFS.Contract.Tools.exe</url>
+  <version>0.0.0.3</version>
+  <url>https://github.com/Roken-Personal/GFS.Contract.Tools/releases/download/v0.0.0.3/GFS.Contract.Tools.exe</url>
   <mandatory minversion="">true</mandatory>
 </item>
